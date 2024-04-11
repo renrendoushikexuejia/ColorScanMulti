@@ -1,0 +1,20 @@
+{
+    "colorScan0": {
+        "switch": 1,
+        "LX": "02",
+        "LY": "03",
+        "RX": "04",
+        "RY": "05",
+        "R": "06",
+        "ROffset": "07",
+        "G": "08",
+        "GOffset": "09",
+        "B": "010",
+        "BOffset": "011",
+        "interval": "012",
+        "flashSwitch": 1,
+        "soundSwitch": 1,
+        "soundDir": "C:/MyCode/ColorScanMulti/Ring01.wav",
+        "note": "..."
+    }
+}
